@@ -37,4 +37,6 @@ The `Research Roadmap` for this project should include:
     - additional research necessary to understand concepts accounting for relationships between sources
     - inclusion of paths/processes that lead to any dead-ends or failures
 
-> Note, both experiments should use _one_ single roadmap which demonstrates the relationship between the parts of this assignment.
+> Notes:
+> * both experiments should use _one_ single roadmap which demonstrates the relationship between the parts of this assignment
+> * sourcing and other pieces of this project will be completed by other course activities including various `* Log` posts
