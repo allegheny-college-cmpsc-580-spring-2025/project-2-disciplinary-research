@@ -10,6 +10,16 @@
 
 ### Deliverables
 
+The `Research Roadmap` for this project will relate to the disciplinary paper assigned on the [course calendar](https://chompe.rs/580-schedule).
+Use the following table to determine which resource to use in combination with your paper.
+
+|Paper               |Associated Resource                                 |
+|:-------------------|:---------------------------------------------------|
+|_Fat Pointers in C_ |https://zenodo.org/records/7719431                  |
+|_Tidy Data_         |https://github.com/metmuseum/openaccess/            |
+|_Quality of Metadata in Open Portals_|Choose `RDF` from: https://catalog.data.gov/dataset/ |
+|_Evaluating Web Software Reliability Based on Workload and Failure Data Extracted from Server Logs_ | https://chompe.rs/cmpsc-580-se-log |
+
 #### Research Roadmap
 
 Students will complete this project in a team assigned to you based on your chosen discipline (degree program);
