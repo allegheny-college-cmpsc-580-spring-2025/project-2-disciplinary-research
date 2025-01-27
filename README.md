@@ -20,6 +20,10 @@ Use the following table to determine which resource to use in combination with y
 |_Quality of Metadata in Open Portals_|Choose `RDF` from: https://catalog.data.gov/dataset/ |
 |_Evaluating Web Software Reliability Based on Workload and Failure Data Extracted from Server Logs_ | https://chompe.rs/cmpsc-580-se-log |
 
+To assist with producing a `Roadmap` this time, your first step should be to search for accompanying repositories or artifacts either mentioned
+in the paper _or_ associated with the paper title. Nearly all of the above papers have a Github repository or other tool that you can use
+to complete work.
+
 #### Research Roadmap
 
 Students will complete this project in a team assigned to you based on your chosen discipline (degree program);
